@@ -41,6 +41,7 @@ Thus, the learning goal is:
 
 ### NULLA.start
 create `.env` file, and specify keys 
+Make sure you have some test eth on ropsten
 ```
 MNEMONIC=<your metamask mnemonic>
 INFURA_API_KEY=<your infura api key>
