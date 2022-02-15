@@ -14,6 +14,8 @@ The generated haiku/senryū will also follow the rule.
 
 It does not use IPFS url as it creates an [on-chain nft](https://medium.com/coinmonks/how-to-create-on-chain-nfts-with-solidity-1e20ff9dd87e)
 
+Is currently deployed [here](https://consensys-bootcamp.herokuapp.com/)
+
 Thus, the learning goal is:
 - To explore NLG (Natural Language Generation) libraries in JS and to use it in a simple project.
 - To understand what an NFT is and how that can be used for an NLG project.
